@@ -2,4 +2,4 @@
 Detecting Faces and Eyes Using Opencv
 
 
-![](Figures/neural_network.png)
+![](Detected_Face_and_Eyes.jpg)
